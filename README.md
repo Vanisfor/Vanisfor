@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Boxin 👋
 
-<!--
-**Vanisfor/Vanisfor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"A person who is currently free, willing not to be replaced by AI."
+（一个闲来无事，期望不被AI干掉的人。）
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub 活跃状态
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vanisfor&show_icons=true&theme=dark)
+
+---
+
+💡 *“=_=!.”*
