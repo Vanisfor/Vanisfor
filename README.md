@@ -7,10 +7,4 @@
 
 ---
 
-### 📊 GitHub 活跃状态
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vanisfor&show_icons=true&theme=dark)
-
----
-
 💡 *“=_=!.”*
