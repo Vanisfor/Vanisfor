@@ -4,6 +4,8 @@
 
 ---
 
-### AI Productization · Agent Applications · AI Backend
+### 🚀 AI Productization · 🤖 Agent Applications · ⚙️ AI Backend
 
 Focused on starting from real business needs and turning AI capabilities into usable, iterable products.
+
+😊
