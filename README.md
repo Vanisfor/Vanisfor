@@ -1,7 +1,9 @@
-# Hi there, I'm Boxin 👋
+# Hi there, I'm Boric 👋
 
 ---
 
 ---
 
-💡 *“=_=!.”*
+### AI Productization · Agent Applications · AI Backend
+
+Focused on starting from real business needs and turning AI capabilities into usable, iterable products.
